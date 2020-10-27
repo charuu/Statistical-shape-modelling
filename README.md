@@ -1,1 +1,1 @@
-# minimal-scalismo-seed
+# statistical-shape-modelling
