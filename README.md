@@ -1,1 +1,1 @@
-# statistical-shape-modelling
+# statistical-shape-modelling-tutorial
